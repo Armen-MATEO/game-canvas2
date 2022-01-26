@@ -1,2 +1,2 @@
-# game-canvas2
+# canvas-game
 Created with CodeSandbox
